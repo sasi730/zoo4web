@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+*{list-style:none;}
+.col-md1 >img{float:left;    margin: 15px 5px 0 0;}
+.mari1{color:#ef1d1d; font-size:40px; text-transform:uppercase;margin-bottom: 0px;}
+.mari2{color:#010101; font-size:16px; text-transform:uppercase; letter-spacing: 3px;float:left;}
+.mari3{color:#007541;font-size:14px; text-align:center;    padding: 20px 0px 0 0; float:left; }
+.mari3 > p{margin-bottom: 0px;}
+.float{float:left; padding: 0px 0 11px 0;}
+.mlr4{    float: right;font-size: 20px;padding-top: 20px; text-align:center; color:#000000;}
+.mlr4 >span{color:#ef1d1d; font-size:25px;}
+.nav-pills1 > li.active > a{color:#ffe082; text-decoration:underline; background:none;}
+.nav1 > li > a{color:white;     display: block; padding: 20px 12px;}
+.nav1 > li > a:hover{color:#ffe082; background:none; text-decoration:underline;background:pink;}
+.nav2{background:#356650; border-bottom:1px solid #2f5b47; text-transform:uppercase;}
+.nav2 li a{color:white; padding:8.9px;}
+.right{float:right;}
+.padding{padding-right:10px;}
+.nav2 > li > a:hover{color:#ffe082; background:none; text-decoration:underline;background:pink;}
+.border{border:1px solid #e6e6e6; margin:20px auto;}
+.latest{color:#ef1d1d; font-size:16px; float:left;}
+.campus{color:#144c84; margin-top:20px;}
+.imgicon {width: 41px;height: 41px;background-color: #899782;float: left;margin-right: 20px;margin-bottom: 10px;}
+.imgicon > span{font-size:20px; color:white; margin:10px;}
+.placement{background:#e5fbd9; padding:0px; margin-bottom:10px; line-height:20px;}
+.placement > p {    padding: 4.3px 51px; color:#000000;}
+.paddingleft{padding-left:0px;}
+.paddingright{padding-right:0px;}
+.icon1{    margin: 11px 14px 10px 15px;float: left;}
+.head{font-size: 20px;color: #383017;text-transform: uppercase;margin: 10px 0 29px;}
+.photo{background:#e5eaf0; padding:0px; margin:10px 0;}
+.photoimg > h2 {font-size: 16px;color: #2d669e;margin: 0px 25px 41px 39px;float: left; text-decoration:underline;}
+.awards{background:#edebe3; padding:0px;    margin: 9.68px 0;}
+.awards> p{line-height: 24px;margin: 0px 15px 21px 24px;font-size: 15PX;color: #282828;text-transform: none;}
+.awards> p > i >span{color: #296db0;border-bottom: 1px solid #296db0;}
+.welcome{background:#ffe082; padding:0px; margin-bottom:10px;}
+.midcontent{    PADDING: 0 21px 10px 21px; line-height: 22px;}
+.midcontent > p{margin:0px}
+.news{background:#cdecfe; padding:0px; margin:10px 0;}
+.news > p{padding-bottom:8px;}
+.newsdate {width: 60px;height: 38px;  text-align: center;background-color: white;float: left;margin: 0px 20px 20px 20px;font-size: 12px;}
+.newsdate > b{color:#3d5a6b;   }
+.newsdate > b > span{color:#7c7c7c;}
+.successtories{background:#f6d9d9; padding:0px; margin:10px 0;}
+.suimg > img {    width: 441px;padding-left: 16px;height: 175px;}
+.suimg > p{    padding: 15px 3px 5px 24px;line-height: 22px;}
+.logoimg {height: 140px; padding:0px;}
+.logoimg ul li:nth-child(1n) {background-color: #3f7fbe;margin-bottom: 6px;border-radius: 39px;}
+.logoimg ul li:nth-child(2n) {background-color: #319a6c;}
+.logoimg ul li:nth-child(3n) {background-color: #9f6db6;}
+.logoimg ul li a {color: #ffffff;font-size: 16px;display: block;line-height: 44px;padding-left: 25px;}
+.logoimg ul li {height: 42px;}
+.logoimg ul{padding:0px;}
+.coursecontent {
+	float: left;
+}
+.coursecontent > p {
+	font-size: 14px;
+	color: #86919d;
+	margin-left:20px
+}
+.coursecontent > h2 {
+	font-size: 14px;
+	margin: 15px 0 0 15px;
+	line-height: 26px;
+	color: #000000;
+}
+.coursecontent > h2 >span {
+	font-size: 11px;
+	color: #d9d5c7;
+}
+.coursecontent2> p {
+	font-size: 14px;
+	color: #86919d;
+	margin-left: 128px;
+}
+.coursecontent2 > h2 {
+	font-size: 14px;
+	    margin: 5px 0 12px 20px;
+    float: left;
+	line-height: 26px;
+	color: #000000;
+}
+.coursecontent2 > h2>span {
+	font-size: 11px;
+	color: #d9d5c7;
+}
+.course{background:#e3ede5;  padding:0px; margin:10px 0;}
+.youtube {
+	height: 236px;
+	margin: 23px 0px; padding:0px;
+}
+.ragging{background:#e4ecf5; padding:0px; margin:10px 0;}
+.raggingcontent > p {
+	font-size: 15px;
+	margin-left: 10px;
+}
+.con > ul {
+	padding:0px;
+}
+.con > ul li {
+	color: #296db0;
+	padding: 10px;
+	border-bottom: 1px solid #d2d9e2;
+
+}
+.client{background:#e3e9ef; text-align:center; padding:0px;margin-top:20px;}
+
+.clientsMenu li {
+	background-color: white;
+	border-radius: 8px;
+	float: left;
+	margin: 20px 8px 25px 3px;
+}
+.clientsMenu li a {
+	height: 62px;
+	display: block;
+	width: 123px;
+}
+.clientsMenu li a img {
+	vertical-align: middle;
+}
+#footer {
+	height: 87px;
+	background: #3b4651;
+}
+#footer > .container > h1 {
+	color: #cccccc;
+	font-size: 14px;
+	float: left;
+	margin: 29px;
+}
+
+
+
+
